@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Point_1
+  - Point_2
+  - Enemy
+  - Gun
+  - BoxHP
+  - BoxBul
+  - bullet
+  - Saw
+  - PrickyBall
+  - Spike
+  - ShootingTrap
+  - LaserBullet
+  - Spear
+  - ParticleBullet
+  - DieSpace
+  - Land
+  - TextHP
+  - TextAmmo
+  - Table
+  - SecondCheckpoint
+  - ThirdCheckpoint
+  - AgainButton
+  - WIN
+  - NextLevelTrigDown
+  - blockWall
+  - BOSS
+  - SkyEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - maskPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
